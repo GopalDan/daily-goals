@@ -12,4 +12,6 @@
     <string name="lunch">LUNCH</string>
     <string name="games">GAMES</string>
     <string name="dinner">DINNER</string>
+    <string name="wel_come">Welcome To</string>
+    <string name="about_app">A place where you can track your goal </string>
 </resources>
